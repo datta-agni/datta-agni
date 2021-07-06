@@ -3,7 +3,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/datta-agni?label=Follow&style=social)](https://github.com/datta-agni/?tab=followers)
 
 **Hey, I am Agni Datta, sophomore at Vellore Institute of Technology.**
+
 **I am interested in Blockchain, Cryptography, Malware Forensics, Linux Kernel, Reverse Engineering, Numerical Algorithms.**
+
 **Not only that, I am also a big believer in digital anonymity, privacy and an open source enthusiast.**
 
 ## **Connect with me**
