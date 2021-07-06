@@ -4,9 +4,11 @@
 
 ### **Hey, I am Agni Datta, sophomore at Vellore Institute of Technology.**
 
-### **I am interested in Blockchain, Cryptography, Distributive Systems, Digital and Malware Forensics, Linux Kernel Programming, Reverse Engineering, Numerical Algorithms and Number Theory.**
+### I am interested in Blockchain, Cryptography, Digital and Malware Forensics, Linux Kernel, Reverse Engineering, Numerical Algorithms.
 
-### **Furthermore, I am a regular participant in CTF and competitive coding competitions. Not only that, I am a big believer in digital anonymity, privacy and also an avid open source enthusiast. I am open to collaborations in any open source projects.**
+### Furthermore, I am a regular participant in CTF and competitive coding competitions.
+
+### Not only that, I am also a big believer in digital anonymity, privacy and also an avid open source enthusiast.
 
 ## **Connect with me**
 
