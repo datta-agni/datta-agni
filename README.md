@@ -6,7 +6,7 @@
 
 **I am interested in the following**,
 
-```markdown
+```python
   * Blockchain and Cryptography,
   
   * Digital Forensics,
@@ -20,7 +20,7 @@
 
 **I currently am comfortable in the following languages,**
 
-```markdown
+```python
 * Bash and equivalent shells (intermediate proficiency)
 
 * C (professional proficiency)
@@ -31,7 +31,7 @@
 
 * LaTeX (intermediate proficiency)
 
-* NASM Assembly (intermediate proficiency)
+* NASM Assembly (elementary proficiency)
 
 * Python (intermediate proficiency)
 ```
