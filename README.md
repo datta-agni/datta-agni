@@ -15,7 +15,6 @@
 > * **Malware Analysis and Reverse Engineering,**
 >
 > * **Numerical Algorithms and Number Theory.**
->
 
 **I currently am comfortable in the following languages, **
 
@@ -32,7 +31,6 @@
 > * **NASM Assembly (elementary proficiency)**
 >
 > * **Python (intermediate proficiency)**
->
 
 **I am a regular participant in CTF and competitive coding competitions.**
 
@@ -46,9 +44,9 @@
 
 ## **My Profiles**
 
-> * [CodeChef](https://www.codechef.com/users/dattagni09)**
+> * **[CodeChef](https://www.codechef.com/users/dattagni09)**
 >
-> * [Hackerrank](https://www.hackerrank.com/dattadunga)**
+> * **[Hackerrank](https://www.hackerrank.com/dattadunga)**
 
 <img src="https://github-readme-stats.vercel.app/api?username=datta-agni&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
