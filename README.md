@@ -2,9 +2,9 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/datta-agni?label=Follow&style=social)](https://github.com/datta-agni/?tab=followers)
 
-## **Hey, I am Agni Datta, sophomore at Vellore Institute of Technology.**
+**Hey, I am Agni Datta, sophomore at Vellore Institute of Technology.**
 
-### **I am interested in Blockchain, Cryptography, Distributive Systems, Digital and Malware Forensics, Linux Kernel Programming, Reverse Engineering, Numerical Algorithms and Number Theory. I currently am comfortable in BASH and shell programming, C, C++, JAVA, LaTeX, NASM Assembly, Python. I am a regular participant in CTF and competitive coding competitions. Not only that, I am a big believer in digital anonymity, privacy and also an avid open source enthusiast. I am open to collaborations in any open source projects.**
+I am interested in Blockchain, Cryptography, Distributive Systems, Digital and Malware Forensics, Linux Kernel Programming, Reverse Engineering, Numerical Algorithms and Number Theory. I currently am comfortable in BASH and shell programming, C, C++, JAVA, LaTeX, NASM Assembly, Python. I am a regular participant in CTF and competitive coding competitions. Not only that, I am a big believer in digital anonymity, privacy and also an avid open source enthusiast. I am open to collaborations in any open source projects.
 
 ## **Connect with me**
 
