@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/datta-agni?label=Follow&style=social)](https://github.com/datta-agni/?tab=followers)
 
-**Hey, I am Agni Datta. I am a sophomore at Vellore Institute of Technology.  I am interested in CTF, Forensics, Cryptography and Competitive Programming. I like anything related to privacy and information security.**
+**Hey, I am Agni Datta. I am a sophomore at Vellore Institute of Technology.  I am interested in CTF, Forensics, Reverse Engineering, Cryptography and Competitive Programming. I like anything related to privacy, numerical algorithms (number theory) and information security.**
 
 
 ## **Connect with me**
