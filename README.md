@@ -4,23 +4,19 @@
 
 **Hey, I am Agni Datta, sophomore at Vellore Institute of Technology.**
 
-**I am a aspiring Cyber Security researcher interested in Blockchain, Cryptography, Malware Forensics, Linux Kernel, Reverse Engineering, Numerical Algorithms.**
+**I am a aspiring Cyber Security researcher interested in Blockchain, Cryptography, Malware Forensics, Linux Kernel, Reverse Engineering, and Numerical Algorithms.**
 
 **Not only that, I am also a big believer in digital anonymity, privacy and an open source enthusiast.**
 
 ![](https://img.shields.io/badge/OS-Linux/Unix-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
-
 ![](https://img.shields.io/badge/Code-Assembly-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
-
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
-
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
-
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4) ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
-
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
 ![](https://img.shields.io/badge/Editing-Photoshop-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
 
-## GitHub Statistics
+## **GitHub Statistics**
 
 ![Agni's GitHub stats](https://github-readme-stats.vercel.app/api?username=datta-agni&show_icons=true)
 
