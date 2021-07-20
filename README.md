@@ -4,7 +4,7 @@
 
 **Hey, I am Agni Datta, sophomore at Vellore Institute of Technology.**
 
-**I am a aspiring Cyber Security researcher interested in Blockchain, Cryptography, Malware Forensics, Linux Kernel, Reverse Engineering, and Numerical Algorithms.**
+**I am an aspiring cyber security researcher, interested in Blockchain, Cryptography, Malware Forensics, Linux Kernel, Reverse Engineering, and Numerical Algorithms.**
 
 **Not only that, I am also a big believer in digital anonymity, privacy and an open source enthusiast.**
 
