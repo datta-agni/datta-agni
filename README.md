@@ -6,7 +6,7 @@
 
 **I am an aspiring cyber security researcher, interested in Blockchain, Cryptography, Malware Forensics, Linux Kernel, Reverse Engineering, and Numerical Algorithms.**
 
-**Not only that, I am also a big believer in digital anonymity, privacy and an open source enthusiast.**
+**Not only that, I am also a big believer in digital anonymity, privacy and am an open source enthusiast.**
 
 ![](https://img.shields.io/badge/OS-Linux/Unix-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
 ![](https://img.shields.io/badge/Coding_in-NSM_Assembly-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
