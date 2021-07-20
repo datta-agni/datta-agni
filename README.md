@@ -9,11 +9,11 @@
 **Not only that, I am also a big believer in digital anonymity, privacy and an open source enthusiast.**
 
 ![](https://img.shields.io/badge/OS-Linux/Unix-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
-![](https://img.shields.io/badge/Code-Assembly-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/Coding-Assembly-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/Coding-C-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/Coding-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/Coding-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/Coding-Ruby-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
 ![](https://img.shields.io/badge/Editing-Photoshop-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
 
 ## **GitHub Statistics**
