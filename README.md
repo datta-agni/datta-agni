@@ -9,18 +9,18 @@
 **Not only that, I am also a big believer in digital anonymity, privacy and an open source enthusiast.**
 
 ![](https://img.shields.io/badge/OS-Linux/Unix-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
-![](https://img.shields.io/badge/Coding-Assembly-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
-![](https://img.shields.io/badge/Coding-C-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
-![](https://img.shields.io/badge/Coding-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
-![](https://img.shields.io/badge/Coding-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
-![](https://img.shields.io/badge/Coding-Ruby-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
-![](https://img.shields.io/badge/Editing-Photoshop-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/Coding_in-NSM_Assembly-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/Coding_in-C-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/Coding_in-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/Coding_in-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/Coding_in-Ruby-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/Photo_Editing-Photoshop-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
 
 ## **GitHub Statistics**
 
-![Agni's GitHub stats](https://github-readme-stats.vercel.app/api?username=datta-agni&show_icons=true)
+![Agni's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=datta-agni&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datta-agni&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=datta-agni&layout=compact)
 
 ## **Connect with me**
 
