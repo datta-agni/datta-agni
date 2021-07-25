@@ -16,6 +16,7 @@
 ![](https://img.shields.io/badge/Coding_in-Ruby-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
 ![](https://img.shields.io/badge/Documentation_in-LaTeX-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
 ![](https://img.shields.io/badge/Photo_Editing-Adobe_Photoshop-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/Audio_Editing-Adobe_Audtion_and_Audacity-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
 ![](https://img.shields.io/badge/Scripting_in-BASH-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
 
 ## **GitHub Statistics**
