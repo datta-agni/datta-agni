@@ -21,7 +21,7 @@
 
 ![Agni's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=datta-agni&show_icons=true)
 
-<p align="center"><a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=datta-agni&theme=light" /></a></p>
+<p align="left"><a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=datta-agni&theme=light" /></a></p>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=datta-agni&layout=compact)
 
