@@ -18,9 +18,9 @@
 
 ## **GitHub Statistics**
 
-![Agni's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=datta-agni&show_icons=true&theme=chartreuse-dark&border_radius=3)
+![Agni's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=datta-agni&show_icons=true&theme=chartreuse-dark)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=datta-agni&theme=chartreuse-dark&bord)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=datta-agni&theme=chartreuse-dark&bord)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=datta-agni&layout=compact&theme=chartreuse-dark)
 
