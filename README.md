@@ -3,8 +3,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/datta-agni?label=Follow&style=social)](https://github.com/datta-agni/?tab=followers) ![](https://komarev.com/ghpvc/?username=datta-agni&color=4285F4)
 
 **I'm Agni Datta, a second-year student at Vellore Institute of Technology.**
-**Cryptography, Malware Forensics, Linux Kernel Reverse Engineering and Numeric Algorithms fascinate me.**
-**And on top of all of that, I am an open source fanatic and a huge proponent of digital confidentiality and anonymity.**
+**Cryptography, Malware Forensics, Linux Kernel, Reverse Engineering and Numeric Algorithms fascinate me.**
+**And on top of all of that, I am an open source fanatic and a huge proponent of digital privacy and anonymity.**
 
 ![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)
 ![C](https://img.shields.io/badge/-C-black?logo=c&style=social)
