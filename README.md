@@ -6,28 +6,29 @@
 **Cryptography, Malware Forensics, Linux Kernel Reverse Engineering and Numeric Algorithms fascinate me.**
 **And on top of all of that, I am an open source fanatic and a huge proponent of digital confidentiality and anonymity.**
 
-![](https://img.shields.io/badge/OS-Linux/Unix-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
-![](https://img.shields.io/badge/Coding_in-NSM_Assembly-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
-![](https://img.shields.io/badge/Coding_in-C-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
-![](https://img.shields.io/badge/Coding_in-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
-![](https://img.shields.io/badge/Coding_in-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
-![](https://img.shields.io/badge/Coding_in-Ruby-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
-![](https://img.shields.io/badge/Documentation_in-LaTeX-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
-![](https://img.shields.io/badge/Photo_Editing-Adobe_Photoshop-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
-![](https://img.shields.io/badge/Audio_Editing-Adobe_Audtion_and_Audacity-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
-![](https://img.shields.io/badge/Scripting_in-BASH-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4285F4)
+![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)
+![C](https://img.shields.io/badge/-C-black?logo=c&style=social)
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)
+![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)
+![LaTeX](https://img.shields.io/badge/-LaTeX-black?logo=latex&style=social)
+![Linux](https://img.shields.io/badge/-Linux-black?logo=linux&style=social)
+![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)
+![Ruby](https://img.shields.io/badge/-Ruby-black?logo=ruby&style=social)
 
 ## **GitHub Statistics**
 
-![Agni's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=datta-agni&show_icons=true)
+![Agni's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=datta-agni&show_icons=true&theme=chartreuse-dark&border_radius=3)
 
-<p align="left"><a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=datta-agni&theme=light" /></a></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=datta-agni&theme=chartreuse-dark&bord)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=datta-agni&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=datta-agni&layout=compact&theme=chartreuse-dark)
+
 
 ## **Connect with me**
 
 [![Linkedin Badge](https://img.shields.io/badge/-Agni-blue?style=for-the-badge-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/agni-datta-3380b8163/)](https://www.linkedin.com/in/agni-datta-3380b8163/)
+
 
 ## **My Profiles**
 
