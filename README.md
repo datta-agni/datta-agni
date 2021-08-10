@@ -3,9 +3,13 @@
 [![GitHub followers](https://img.shields.io/github/followers/datta-agni?label=Follow&style=sociastyle=flat-squarellabel=)](https://github.com/datta-agni/?tab=followers)
 ![](https://komarev.com/ghpvc/?username=datta-agni&color=4285F4&style=flat-square&label=PROFILE+VIEWS)
 
-**I'm Agni Datta, a second-year student at Vellore Institute of Technology.**
-**Cryptography, Malware Forensics, Linux Kernel, Reverse Engineering and Numeric Algorithms fascinate me.**
-**And on top of all of that, I am an open source fanatic and a huge proponent of digital privacy and anonymity.**
+**I'm Agni Datta, a somphmore at Vellore Institute of Technology.**
+
+**Cryptography, Malware Forensics, Linux Kernel, Reverse Engineering, Scientific and Numerical Algorithms fascinate me.**
+
+**And on top of all of that, I am an open source fanatic and a huge proponent of digital privacy and anonymity.** 
+
+**Familiar with :**
 
 ![Adobe Photoshop Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -26,10 +30,12 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Supporter of
+
+### I support !
 
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
+
 
 ## **GitHub Statistics**
 
@@ -43,11 +49,9 @@
 ## **Connect with me**
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dattagni)](https://www.linkedin.com/in/dattagni)
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@dattadunga)][https://medium.com/@dattadunga]
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@dattadunga)](https://medium.com/@dattadunga)
 
 
 ## **My Profiles**
 
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white&link=https://www.codechef.com/users/dattagni09)(https://www.codechef.com/users/dattagni09)]
-
-- **[Hackerrank](https://www.hackerrank.com/dattadunga)**
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white&link=https://www.codechef.com/users/dattagni09)](https://www.codechef.com/users/dattagni09)
