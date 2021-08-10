@@ -1,7 +1,7 @@
 # **Hey, Hello there! :wave:**
 
-[![GitHub followers](https://img.shields.io/github/followers/datta-agni?label=Follow&style=sociastyle=flat-squarellabel=)](https://github.com/datta-agni/?tab=followers)
-![](https://komarev.com/ghpvc/?username=datta-agni&color=4285F4&style=flat-square&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/datta-agni?label=Follow&style=sociastyle=flat-squarellabel&color=4285F4)](https://github.com/datta-agni/?tab=followers)
+![](https://komarev.com/ghpvc/?username=datta-agni&color=4285F4&label=Views)
 
 **I'm Agni Datta, a somphmore at Vellore Institute of Technology.**
 
