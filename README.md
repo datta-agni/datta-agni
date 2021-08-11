@@ -47,6 +47,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=datta-agni&layout=compact&theme=chartreuse-dark)
 
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dattagni)](https://www.linkedin.com/in/dattagni)
@@ -57,3 +59,4 @@
 
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white&link=https://www.codechef.com/users/dattagni09)](https://www.codechef.com/users/dattagni09)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/dattadunga)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Agni-Datta-2)
