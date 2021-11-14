@@ -3,11 +3,14 @@
 [![GitHub followers](https://img.shields.io/github/followers/datta-agni?label=Follow&style=sociastyle=flat-squarellabel&color=4285F4)](https://github.com/datta-agni/?tab=followers)
 ![](https://komarev.com/ghpvc/?username=datta-agni&color=4285F4&label=Views)
 
-**I'm Agni Datta, a research oriented somphmore at Vellore Institute of Technology.**
+## About me:
+**I'm Agni Datta, a theoretical and research oriented somphmore at Vellore Institute of Technology.**
 
-**Cryptography, Malware Forensics, Linux Kernel, Reverse Engineering, Scientific and Numerical Algorithms fascinate me.**
+**My research interests lie at the intersection of computer science and mathematics. I am interested in theory of computation and complexity, functional programming, cryptography, analysis of algorithms, compiler designing, kernel programming, and the interplay between them.**
 
 **And on top of all of that, I am an open source fanatic and a huge proponent of digital privacy and anonymity.** 
+
+**My PGP Public Key: [keys.openpgp.org/agni](https://keys.openpgp.org/vks/v1/by-fingerprint/034FA3D4FD4067E5BCF30B6FCF8D56CABE52E5E9)**
 
 **Familiar with :**
 
@@ -18,6 +21,7 @@
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
@@ -28,12 +32,13 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![BASH](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-### I support !
+### **I support !**
 
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/)
 [![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)](https://www.torproject.org/)
@@ -48,7 +53,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=datta-agni&layout=compact&theme=chartreuse-dark)
 
 
-## Connect with me
+## **Connect with me**
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dattagni)](https://www.linkedin.com/in/dattagni)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@dattadunga)](https://medium.com/@dattadunga)
