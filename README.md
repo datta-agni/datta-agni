@@ -4,9 +4,15 @@
 ![](https://komarev.com/ghpvc/?username=datta-agni&color=4285F4&label=Views)
 
 ## About me:
-**I'm Agni Datta, a theoretical and research oriented somphmore at Vellore Institute of Technology.**
+**I am a theoretical computer science student with minor in Cyber-Security and Digital Forensic. I primarily code in object-oriented languages like Java, Python & Ruby. However, I am also acquainted with C, Assembly (NASM, X86-64) and just a little bit of functional programming in Haskell.**
 
-**My research interests lie at the intersection of computer science and mathematics. I am interested in theory of computation and complexity, functional programming, cryptography, analysis of algorithms, compiler designing, kernel programming, and the interplay between them.**
+
+
+**Anti Forensics, Data Encryption & Privacy, Cryptography, Complexity Theory, Theory Of Computation, Numerical Algorithm Analysis, Functional Programming, Quantum Computing & Quantum Resilient Cryptography are among my academic research interests.
+**
+
+
+**I am also a fervent Linux devotee with strong opinions about digital anonymity and confidentiality.**
 
 **And on top of all of that, I am an open source fanatic and a huge proponent of digital privacy and anonymity.** 
 
