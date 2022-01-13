@@ -71,7 +71,7 @@
 [![Instagram](https://img.shields.io/badge/agni.datta-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/agni.datta/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dattagni)](https://www.linkedin.com/in/dattagni)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@dattadunga)](https://medium.com/@dattadunga)
-[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](DungaDatta@protonmail.com)
+[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](protonmailcom/DungaDatta@protonmail.com)
 
 
 ## **My Profiles**
