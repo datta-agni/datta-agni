@@ -13,7 +13,7 @@
 
 
 **I am also a fervent Linux devotee with strong opinions about digital anonymity and confidentiality.**
-**And on top of all of that, I am an open source fanatic and a huge proponent of digital privacy and anonymity.** 
+**And on top of all of that, I am an open source fanatic and a huge proponent of digital privacy and anonymity.**
 
 **My PGP Public Key: [keys.openpgp.org/agni](https://keys.openpgp.org/vks/v1/by-fingerprint/034FA3D4FD4067E5BCF30B6FCF8D56CABE52E5E9)**
 
@@ -68,7 +68,6 @@
 
 ## **Connect with me**
 
-[![Instagram](https://img.shields.io/badge/agni.datta-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/agni.datta/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dattagni)](https://www.linkedin.com/in/dattagni)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@dattadunga)](https://medium.com/@dattadunga)
 
