@@ -1,7 +1,7 @@
 # **Hey, Hello there! :wave:**
 
 [![GitHub followers](https://img.shields.io/github/followers/datta-agni?label=Follow&style=sociastyle=flat-squarellabel&color=4285F4)](https://github.com/datta-agni/?tab=followers)
-![](https://komarev.com/ghpvc/?username=datta-agni&color=4285F4&label=Views)
+![Username](https://komarev.com/ghpvc/?username=datta-agni&color=4285F4&label=Views)
 
 ## About me
 
