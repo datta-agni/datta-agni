@@ -5,7 +5,7 @@
 
 ## About me
 
-> > **I am a theoretical computer science student with minor in Cyber-Security and Digital Forensic. I primarily code in object-oriented languages like Java, Python & Ruby. However, I am also acquainted with C, Assembly (`FASM, NASM`) and just a little bit of functional programming in Haskell.**
+> **I am a theoretical computer science student with minor in Cyber-Security and Digital Forensic. I primarily code in object-oriented languages like Java, Python & Ruby. However, I am also acquainted with C, Assembly (`FASM, NASM`) and just a little bit of functional programming in Haskell.**
 
 **My academic and research interests are varied and include:**
 
