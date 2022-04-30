@@ -5,33 +5,33 @@
 
 ## About me
 
-> I am a theoretical computer science student with minor in Cyber-Security and Digital Forensic. I primarily code in object-oriented languages like Java, Python & Ruby. However, I am also acquainted with C, Assembly (`FASM, NASM`) and just a little bit of functional programming in Haskell.
+> > **I am a theoretical computer science student with minor in Cyber-Security and Digital Forensic. I primarily code in object-oriented languages like Java, Python & Ruby. However, I am also acquainted with C, Assembly (`FASM, NASM`) and just a little bit of functional programming in Haskell.**
 
-My academic and research interests are varied and include:
+**My academic and research interests are varied and include:**
 
-* `Anti Forensics using AI and ML`
-* `Analysis of Algorithm and Data Structures`
-* `Compiler Design and Security Analysis of Compilers`
-* `Cryptography and Cryptanalysis`
-* `Functional Programming and Monads`
-* `Privacy Theory`
-* `Theory of Complexity`
-* `Quantum Resilient Cryptography`
+* **Anti Forensics using AI and ML**
+* **Analysis of Algorithm and Data Structures**
+* **Compiler Design and Security Analysis of Compilers**
+* **Cryptography and Cryptanalysis**
+* **Functional Programming and Monads**
+* **Privacy Theory**
+* **Theory of Complexity**
+* **Quantum Resilient Cryptography**
 
 My favorite program:
 
-```haske
+```haskell
 factorial :: Integer -> Integer
 factorial 1 = 1
 factorial n = n * factorial (n - 1)
 ```
 
-I am also a fervent Linux devotee with strong opinions about digital anonymity and confidentiality.
-And on top of all of that, I am an open source fanatic and a huge proponent of digital privacy and anonymity.
+**I am also a fervent Linux devotee with strong opinions about digital anonymity and confidentiality.**
+**And on top of all of that, I am an open source fanatic and a huge proponent of digital privacy and anonymity.**
 
 **My PGP Public Key: [keys.openpgp.org/agni](https://keys.openpgp.org/vks/v1/by-fingerprint/034FA3D4FD4067E5BCF30B6FCF8D56CABE52E5E9)**
 
-I usually signs my documents and important work including my GitHub commits with this key. Feel free to use this for signing and sending me documents.
+**I usually signs my documents and important work including my GitHub commits with this key. Feel free to use this for signing and sending me documents.**
 
 **Familiar with :**
 
