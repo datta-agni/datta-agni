@@ -2,15 +2,15 @@
 
 ## **About me**
 
-> *I am a theoretical computer science student with minor in Cyber-Security and Digital Forensic. I primarily code in object-oriented languages like Java, Python & Ruby. However, I am also acquainted with C, Assembly (FASM, NASM) and just a little bit of functional programming in Haskell.*
+> **I am a theoretical computer science student with minor in Cyber-Security and Digital Forensic. I primarily code in object-oriented languages like Java, Python & Ruby. However, I am also formally acquainted with C, Assembly (FASM, NASM) andust a little bit of functional programming in Haskell.**
 
 My academic and research interests are varied and include:
 
-- Anti Forensics using AI and ML
-- Analysis of Algorithm and Data Structures
-- Compiler Design and Security Analysis of Compilers
-- Cryptography and Cryptanalysis
-- Functional Programming and Monads
+- Anti Forensics using AI & ML
+- Analysis of Algorithm & Data Structures
+- Compiler Design & Security Analysis of Compilers
+- Cryptography & Cryptanalysis
+- Functional Programming & Monads
 - Privacy Theory
 - Theory of Complexity
 - Quantum Resilient Cryptography
@@ -18,92 +18,19 @@ My academic and research interests are varied and include:
 ### My favorite program
 
 ```haskell
-module Primes
-  ( isPrime,
-    nextPrime,
-    randomPrime,
-  )
-where
-
-import System.Random
-
---------------------------------------------------------------------------------
--- generates a t-bounded random list of n elements
-randomList :: (RandomGen g, Random a) => g -> (a, a) -> Int -> [a]
-randomList s t n = take n $ randomRs t s
-
---------------------------------------------------------------------------------
--- binary exponentiation algorithm :: a^e mod n
-power :: (Integral a) => a -> a -> a -> a
-power a 1 n = a
-power a e n = (a ^ (e `mod` 2) * power (a * a `mod` n) (e `div` 2) n) `mod` n
-
---------------------------------------------------------------------------------
--- Given x returns (y,z) where x = 2^y * z and z odd
-twoPowersFact :: (Integral a) => a -> (a, a)
-twoPowersFact 0 = (0, 0)
-twoPowersFact m =
-  let go (s, n)
-        | even n = go (s + 1, n `div` 2)
-        | otherwise = (s, n)
-   in go (0, abs m)
-
---------------------------------------------------------------------------------
--- Pseudo Primality Test :: Miller Rabin
--- millerRabin possiblePrime testBase
-millerRabin :: (Integral a) => a -> a -> Bool
-millerRabin n a =
-  let fact = twoPowersFact (n -1)
-      base = power a (snd fact) n
-      test b s r n
-        | r == s = b == n -1
-        | b == 1 && r /= 0 = False
-        | otherwise = b == n -1 || test (power b 2 n) s (r + 1) n
-   in base == 1 || test base (fst fact) 0 n
-
---------------------------------------------------------------------------------
--- isPrimePure possiblePrime [list of testBases]
-isPrimePure :: (Eq a, Integral a) => a -> [a] -> Bool
-isPrimePure 1 _ = False
-isPrimePure 2 _ = True
-isPrimePure _ [] = False -- should not be true or false
-isPrimePure can wit =
-  let primes = [3, 5, 7, 11, 13, 17, 19, 23, 29, 31]
-   in all (\p -> p >= can || (can `mod` p) /= 0) primes
-        && foldr ((&&) . millerRabin can) True wit
-
---------------------------------------------------------------------------------
--- the longer is the randomList, the higher is the accuracy of the test
-isPrime :: (RandomGen g, Integral a, Random a) => g -> a -> Bool
-isPrime seed can = isPrimePure can $ randomList seed (2, can -2) 20
-
---------------------------------------------------------------------------------
--- the next prime after num
-nextPrime :: (RandomGen g, Integral a, Random a) => g -> a -> a
-nextPrime seed num
-  | even num = nextPrime (snd $ next seed) (num + 1)
-  | isPrime seed num = num
-  | otherwise = nextPrime (snd $ next seed) (num + 2)
-
---------------------------------------------------------------------------------
-nBitsRanNum :: (RandomGen g, Integral a, Random a) => g -> a -> (a, g)
-nBitsRanNum seed 0 = (0, snd $ next seed)
-nBitsRanNum seed 1 = randomR (0, 1) seed
-nBitsRanNum seed nbits = randomR (2 ^ (nbits -1), 2 ^ nbits -1) seed
-
---------------------------------------------------------------------------------
--- random prime of nbits
-randomPrime :: (RandomGen g, Integral a, Random a) => g -> a -> a
-randomPrime seed nbits = nextPrime seed (fst $ nBitsRanNum seed nbits)
+fibonacci :: Integer -> Integer
+fibonacci 0 = 1
+fibonacci 1 = 1
+fibonacci x = fibonacci (x-1) + fibonacci (x-2)
 ```
 
 I am also a fervent Linux devotee with strong opinions about digital anonymity and confidentiality. And on top of all of that, I am an open source fanatic and a huge proponent of digital privacy and anonymity.
 
-💡 ***My PGP Public Key:*** [keys.openpgp.org/agni](https://keys.openpgp.org/vks/v1/by-fingerprint/034FA3D4FD4067E5BCF30B6FCF8D56CABE52E5E9)
+💡 **My PGP Public Key can be found [here.](https://keys.openpgp.org/vks/v1/by-fingerprint/034FA3D4FD4067E5BCF30B6FCF8D56CABE52E5E9)**
 
 I usually signs my documents and important work including my GitHub commits with this key. Feel free to use this for signing and sending me documents.
 
-**Familiar with :**
+### Familiar with the following
 
 ![https://camo.githubusercontent.com/92ba876280cf504a26b41f7a0dc10a27c793613763b2c32bfcdcd2acb5453d12/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41646f62652532304c69676874726f6f6d2d3331413846463f7374796c653d666f722d7468652d6261646765266c6f676f3d41646f62652532304c69676874726f6f6d266c6f676f436f6c6f723d7768697465](https://camo.githubusercontent.com/92ba876280cf504a26b41f7a0dc10a27c793613763b2c32bfcdcd2acb5453d12/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41646f62652532304c69676874726f6f6d2d3331413846463f7374796c653d666f722d7468652d6261646765266c6f676f3d41646f62652532304c69676874726f6f6d266c6f676f436f6c6f723d7768697465)
 ![https://camo.githubusercontent.com/32aa15cf5066ee9368cb35ef220ca4760d11eb0513688ca96c28d21298d845d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41646f62652532304c69676874726f6f6d253230436c61737369632d3331413846462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d41646f62652532304c69676874726f6f6d253230436c6173736963266c6f676f436f6c6f723d7768697465](https://camo.githubusercontent.com/32aa15cf5066ee9368cb35ef220ca4760d11eb0513688ca96c28d21298d845d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41646f62652532304c69676874726f6f6d253230436c61737369632d3331413846462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d41646f62652532304c69676874726f6f6d253230436c6173736963266c6f676f436f6c6f723d7768697465)
@@ -136,8 +63,8 @@ I usually signs my documents and important work including my GitHub commits with
 
 ### **I support !**
 
-![https://camo.githubusercontent.com/387b0577360959651f848bb2a3c54ed5eda1815f0cb0f67ebb08ac72e5ebead1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46726565636f646563616d702d2532333132332e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d66726565636f646563616d70266c6f676f436f6c6f723d677265656e](https://camo.githubusercontent.com/387b0577360959651f848bb2a3c54ed5eda1815f0cb0f67ebb08ac72e5ebead1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46726565636f646563616d702d2532333132332e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d66726565636f646563616d70266c6f676f436f6c6f723d677265656e)
-![https://camo.githubusercontent.com/ccc2f3dae6dcd65277bbd8b0b608f646a83e1193326d23fb23e6579fc5386515/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f722d3744343639383f7374796c653d666f722d7468652d6261646765266c6f676f3d546f722d42726f77736572266c6f676f436f6c6f723d7768697465](https://camo.githubusercontent.com/ccc2f3dae6dcd65277bbd8b0b608f646a83e1193326d23fb23e6579fc5386515/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f722d3744343639383f7374796c653d666f722d7468652d6261646765266c6f676f3d546f722d42726f77736572266c6f676f436f6c6f723d7768697465)
+[![https://camo.githubusercontent.com/387b0577360959651f848bb2a3c54ed5eda1815f0cb0f67ebb08ac72e5ebead1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46726565636f646563616d702d2532333132332e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d66726565636f646563616d70266c6f676f436f6c6f723d677265656e](https://camo.githubusercontent.com/387b0577360959651f848bb2a3c54ed5eda1815f0cb0f67ebb08ac72e5ebead1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46726565636f646563616d702d2532333132332e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d66726565636f646563616d70266c6f676f436f6c6f723d677265656e)](https://www.freecodecamp.org/)
+[![https://camo.githubusercontent.com/ccc2f3dae6dcd65277bbd8b0b608f646a83e1193326d23fb23e6579fc5386515/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f722d3744343639383f7374796c653d666f722d7468652d6261646765266c6f676f3d546f722d42726f77736572266c6f676f436f6c6f723d7768697465](https://camo.githubusercontent.com/ccc2f3dae6dcd65277bbd8b0b608f646a83e1193326d23fb23e6579fc5386515/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f722d3744343639383f7374796c653d666f722d7468652d6261646765266c6f676f3d546f722d42726f77736572266c6f676f436f6c6f723d7768697465)](https://www.torproject.org/)
 
 ## **GitHub Statistics**
 
@@ -151,9 +78,9 @@ I usually signs my documents and important work including my GitHub commits with
 
 ## **Connect with me**
 
-![https://camo.githubusercontent.com/5fd5ee86d78bc2e283325b5f953f1330cb3cff43346ac98673ea6b45dfc07360/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6461747461676e69](https://camo.githubusercontent.com/5fd5ee86d78bc2e283325b5f953f1330cb3cff43346ac98673ea6b45dfc07360/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6461747461676e69)
-![https://camo.githubusercontent.com/62d98afe4d45ed25a862d0fd48c5f92261372f39809041493204e0387ce92a8f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d656469756d2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4d656469756d266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f6d656469756d2e636f6d2f40646174746164756e6761](https://camo.githubusercontent.com/62d98afe4d45ed25a862d0fd48c5f92261372f39809041493204e0387ce92a8f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d656469756d2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4d656469756d266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f6d656469756d2e636f6d2f40646174746164756e6761)
+[![https://camo.githubusercontent.com/5fd5ee86d78bc2e283325b5f953f1330cb3cff43346ac98673ea6b45dfc07360/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6461747461676e69](https://camo.githubusercontent.com/5fd5ee86d78bc2e283325b5f953f1330cb3cff43346ac98673ea6b45dfc07360/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6461747461676e69)](https://www.linkedin.com/in/dattagni/)
+[![https://camo.githubusercontent.com/62d98afe4d45ed25a862d0fd48c5f92261372f39809041493204e0387ce92a8f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d656469756d2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4d656469756d266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f6d656469756d2e636f6d2f40646174746164756e6761](https://camo.githubusercontent.com/62d98afe4d45ed25a862d0fd48c5f92261372f39809041493204e0387ce92a8f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d656469756d2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4d656469756d266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f6d656469756d2e636f6d2f40646174746164756e6761)](https://medium.com/@dattadunga)
 
 ## **My Profiles**
 
-![https://camo.githubusercontent.com/69dca1771dfdd234091ab67f8240d000559c1aa9b1f9cd9f9a6e2604c67afc2d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265736561726368476174652d3030434342423f7374796c653d666f722d7468652d6261646765266c6f676f3d526573656172636847617465266c6f676f436f6c6f723d7768697465](https://camo.githubusercontent.com/69dca1771dfdd234091ab67f8240d000559c1aa9b1f9cd9f9a6e2604c67afc2d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265736561726368476174652d3030434342423f7374796c653d666f722d7468652d6261646765266c6f676f3d526573656172636847617465266c6f676f436f6c6f723d7768697465)
+[![https://camo.githubusercontent.com/69dca1771dfdd234091ab67f8240d000559c1aa9b1f9cd9f9a6e2604c67afc2d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265736561726368476174652d3030434342423f7374796c653d666f722d7468652d6261646765266c6f676f3d526573656172636847617465266c6f676f436f6c6f723d7768697465](https://camo.githubusercontent.com/69dca1771dfdd234091ab67f8240d000559c1aa9b1f9cd9f9a6e2604c67afc2d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265736561726368476174652d3030434342423f7374796c653d666f722d7468652d6261646765266c6f676f3d526573656172636847617465266c6f676f436f6c6f723d7768697465)](https://www.researchgate.net/profile/Agni-Datta-2)
