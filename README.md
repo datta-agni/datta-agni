@@ -20,7 +20,7 @@ However, I am also acquainted with Assembly (ASM, FASM) and just a little functi
 8. Privacy Using Machine Learning and Deep Learning,
 9. Quantum Resilient Cryptography.
 
-I am also a fervent Linux devotee with strong opinions about digital anonymity and confidentiality. And on top of all of that, I am an open source fanatic and a huge proponent of digital privacy and anonymity. Nearly every single day, I have been using $\Latex$ for systematic note-taking and documentation, Docker for getting specific tool chains and compilers to work properly, git for source and revision control, VS Code or Jupyter Lab for programming and algorithm implementation, and Arch Linux as my operating system because it offers flexibility and customizability, and the package manager `pacman` is just fantastic.
+I am also a fervent Linux devotee with strong opinions about digital anonymity and confidentiality. And on top of all of that, I am an open source fanatic and a huge proponent of digital privacy and anonymity. Nearly every single day, I have been using LaTeX for systematic note-taking and documentation, Docker for getting specific tool chains and compilers to work properly, git for source and revision control, VS Code or Jupyter Lab for programming and algorithm implementation, and Arch Linux as my operating system because it offers flexibility and customizability, and the package manager `pacman` is just fantastic.
 
 I usually sign my documents and important work, including my GitHub commits, with the key given below. Feel free to use this for signing and sending me documents.
 
@@ -110,7 +110,5 @@ I usually signs my documents and important work including my GitHub commits with
 **University ID:** [agni.datta2020@vitbhopal.ac.in](mailto:agni.datta2020@vitbhopal.ac.in)
 
 **Personal ID:** [dattadunga@gmail.com](mailto:dattadunga@gmail.com)
-
-**Phone Number:** +91 (9007) 271056
 
 **PGP Key** can be found [here.](https://tinyurl.com/agnidatta-pgpkey)
