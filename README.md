@@ -2,20 +2,29 @@
 
 ## **About me**
 
-> **I am a theoretical computer science student with minor in Cyber-Security and Digital Forensic. I primarily code in object-oriented languages like Java, Python & Ruby. However, I am also formally acquainted with C, Assembly (FASM, NASM) and just a little bit of functional programming in Haskell.**
+I am an undergraduate in mathematics and theoretical computer science with a minor in cybersecurity who intends to be a researcher and pursue a PhD. I predominantly prefer C, along with object-oriented programming languages such as:
 
-My academic and research interests are varied and include:
+* Java,
+* Python,
+* Ruby.
 
-- Anti Forensics using AI & ML
-- Analysis of Algorithm & Data Structures
-- Compiler Design & Security Analysis of Compilers
-- Cryptography & Cryptanalysis
-- Functional Programming & Monads
-- Privacy Theory
-- Theory of Complexity
-- Quantum Resilient Cryptography
+However, I am also acquainted with Assembly (ASM, FASM) and just a little functional programming in Haskell. My academic and research interests are expansive, and they encompass the following:
 
-### My favorite program
+1. Analysis of Algorithms,
+2. Computational Complexity,
+3. Computational Number Theory,
+4. Cryptography and Cryptanalysis,
+5. Design and Security Analysis of Compilers,
+6. Functional Programming and Monads,
+7. Mathematical Theory of Privacy,
+8. Privacy Using Machine Learning and Deep Learning,
+9. Quantum Resilient Cryptography.
+
+I am also a fervent Linux devotee with strong opinions about digital anonymity and confidentiality. And on top of all of that, I am an open source fanatic and a huge proponent of digital privacy and anonymity. Nearly every single day, I have been using $\Latex$ for systematic note-taking and documentation, Docker for getting specific tool chains and compilers to work properly, git for source and revision control, VS Code or Jupyter Lab for programming and algorithm implementation, and Arch Linux as my operating system because it offers flexibility and customizability, and the package manager `pacman` is just fantastic.
+
+I usually sign my documents and important work, including my GitHub commits, with the key given below. Feel free to use this for signing and sending me documents.
+
+### My favourite program
 
 ```haskell
 fibonacci :: Integer -> Integer
@@ -24,7 +33,15 @@ fibonacci 1 = 1
 fibonacci x = fibonacci (x-1) + fibonacci (x-2)
 ```
 
-I am also a fervent Linux devotee with strong opinions about digital anonymity and confidentiality. And on top of all of that, I am an open source fanatic and a huge proponent of digital privacy and anonymity.
+I'm presently concentrating on the following initiatives:
+
+* Lightweight Cryptography for CPS: State of the Art,
+* Cryptography Essentials for Cybersecurity: Fundamentals And Applications,
+* Literature Review: Password Generation Methods for Secure Authentications.
+
+I do have a bibliography that may be of relevance to students and researchers; it includes books and scientific journals on mathematics, theoretical computer science, and cryptography. It's obtainable right [here.](https://gist.github.com/datta-agni/1d5ae6df198320c8f942f78aed3479aa)
+
+Typically, my interests involve deep lying theoretical and mathematical issues such as Elliptical Curve Cryptography, Lattice-based Cryptography, privacy-preserving machine learning, and NP Completeness of algorithms. Although occasionally I work with applied technologies, especially with applied cryptography, such as cryptographic implementation in CPS, IoT, so on and so forth.
 
 💡 **My PGP Public Key can be found [here.](https://keys.openpgp.org/vks/v1/by-fingerprint/034FA3D4FD4067E5BCF30B6FCF8D56CABE52E5E9)**
 
@@ -84,3 +101,16 @@ I usually signs my documents and important work including my GitHub commits with
 ## **My Profiles**
 
 [![https://camo.githubusercontent.com/69dca1771dfdd234091ab67f8240d000559c1aa9b1f9cd9f9a6e2604c67afc2d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265736561726368476174652d3030434342423f7374796c653d666f722d7468652d6261646765266c6f676f3d526573656172636847617465266c6f676f436f6c6f723d7768697465](https://camo.githubusercontent.com/69dca1771dfdd234091ab67f8240d000559c1aa9b1f9cd9f9a6e2604c67afc2d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265736561726368476174652d3030434342423f7374796c653d666f722d7468652d6261646765266c6f676f3d526573656172636847617465266c6f676f436f6c6f723d7768697465)](https://www.researchgate.net/profile/Agni-Datta-2)
+
+### **Agni Datta**
+
+> 3rd-year Student of Theoretical Computer Science with a minor in Cyber-Security,
+> SCSE, Vellore Institute of Technology, Bhopal
+
+**University ID:** [agni.datta2020@vitbhopal.ac.in](mailto:agni.datta2020@vitbhopal.ac.in)
+
+**Personal ID:** [dattadunga@gmail.com](mailto:dattadunga@gmail.com)
+
+**Phone Number:** +91 (9007) 271056
+
+**PGP Key** can be found [here.](https://tinyurl.com/agnidatta-pgpkey)
