@@ -51,7 +51,7 @@ fibonacci x = fibonacci (x-1) + fibonacci (x-2)
 ## Connect me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dattagni)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@@dattadunga)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dattadunga)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/agnidattaorg)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/DattaDunga)
 [![Research Gate](https://camo.githubusercontent.com/69dca1771dfdd234091ab67f8240d000559c1aa9b1f9cd9f9a6e2604c67afc2d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265736561726368476174652d3030434342423f7374796c653d666f722d7468652d6261646765266c6f676f3d526573656172636847617465266c6f676f436f6c6f723d7768697465)](<https://www.researchgate.net/profile/Agni-Datta-2>)
